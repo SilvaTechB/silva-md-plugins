@@ -1,92 +1,26 @@
 {
-  "files": [
-    {
-      "url": "https://files.catbox.moe/hpwsi2.mp3",
-      "label": "file1"
-    },
-    {
-      "url": "https://files.catbox.moe/xci982.mp3",
-      "label": "file2"
-    },
-    {
-      "url": "https://files.catbox.moe/utbujd.mp3",
-      "label": "file3"
-    },
-    {
-      "url": "https://files.catbox.moe/w2j17k.m4a",
-      "label": "file4"
-    },
-    {
-      "url": "https://files.catbox.moe/851skv.m4a",
-      "label": "file5"
-    },
-    {
-      "url": "https://files.catbox.moe/qnhtbu.m4a",
-      "label": "file6"
-    },
-    {
-      "url": "https://files.catbox.moe/lb0x7w.mp3",
-      "label": "file7"
-    },
-    {
-      "url": "https://files.catbox.moe/efmcxm.mp3",
-      "label": "file8"
-    },
-    {
-      "url": "https://files.catbox.moe/gco5bq.mp3",
-      "label": "file9"
-    },
-    {
-      "url": "https://files.catbox.moe/26oeeh.mp3",
-      "label": "file10"
-    },
-    {
-      "url": "https://files.catbox.moe/a1sh4u.mp3",
-      "label": "file11"
-    },
-    {
-      "url": "https://files.catbox.moe/vuuvwn.m4a",
-      "label": "file12"
-    },
-    {
-      "url": "https://files.catbox.moe/wx8q6h.mp3",
-      "label": "file13"
-    },
-    {
-      "url": "https://files.catbox.moe/uj8fps.m4a",
-      "label": "file14"
-    },
-    {
-      "url": "https://files.catbox.moe/dc88bx.m4a",
-      "label": "file15"
-    },
-    {
-      "url": "https://files.catbox.moe/tn32z0.m4a",
-      "label": "file16"
-    },
-    {
-      "url": "https://files.catbox.moe/9fm6gi.mp3",
-      "label": "file17"
-    },
-    {
-      "url": "https://files.catbox.moe/9h8i2a.mp3",
-      "label": "file18"
-    },
-    {
-      "url": "https://files.catbox.moe/5pm55z.mp3",
-      "label": "file19"
-    },
-    {
-      "url": "https://files.catbox.moe/zjk77k.mp3",
-      "label": "file20"
-    },
-    {
-      "url": "https://files.catbox.moe/fe5lem.m4a",
-      "label": "file21"
-    },
-    {
-      "url": "https://files.catbox.moe/4b1ohl.mp3",
-      "label": "file22"
-    }
+  "urls": [
+    "https://files.catbox.moe/hpwsi2.mp3",
+    "https://files.catbox.moe/xci982.mp3",
+    "https://files.catbox.moe/utbujd.mp3",
+    "https://files.catbox.moe/w2j17k.m4a",
+    "https://files.catbox.moe/851skv.m4a",
+    "https://files.catbox.moe/qnhtbu.m4a",
+    "https://files.catbox.moe/lb0x7w.mp3",
+    "https://files.catbox.moe/efmcxm.mp3",
+    "https://files.catbox.moe/gco5bq.mp3",
+    "https://files.catbox.moe/26oeeh.mp3",
+    "https://files.catbox.moe/a1sh4u.mp3",
+    "https://files.catbox.moe/vuuvwn.m4a",
+    "https://files.catbox.moe/wx8q6h.mp3",
+    "https://files.catbox.moe/uj8fps.m4a",
+    "https://files.catbox.moe/dc88bx.m4a",
+    "https://files.catbox.moe/tn32z0.m4a",
+    "https://files.catbox.moe/9fm6gi.mp3",
+    "https://files.catbox.moe/9h8i2a.mp3",
+    "https://files.catbox.moe/5pm55z.mp3",
+    "https://files.catbox.moe/zjk77k.mp3",
+    "https://files.catbox.moe/fe5lem.m4a",
+    "https://files.catbox.moe/4b1ohl.mp3"
   ]
 }
